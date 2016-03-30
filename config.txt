@@ -1,5 +1,1 @@
-{
-    "p": "Room418FBlockEPhase2GoldenLionGardenChuiTinStreetTaiWaiNT",
-    "c": "hehe",
-    "t": "hahha”,
-}
+{"bindedPoint":50,"qqgroupkey":"Txt-low_Y5n7PJ7MFri1hDpFuSdUKnUn","desc":"免费抽奖中iphone,千万话费,迅雷优酷爱奇艺vip,安卓天天酷跑,飞车旋斗,全民突击,飞机大战等腾讯游戏免费钻石,良辰从不说空话","clickPoint":2,"bindPoint":20,"status":"1","qqgroup":"473350222","shareUrl":"http://www.appduobao.com/webshare.html","sharePoint":5}
