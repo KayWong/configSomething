@@ -1,10 +1,5 @@
 {
-"bindedPoint":50,
-"qqgroupkey":"Txt-low_Y5n7PJ7MFri1hDpFuSdUKnUn",
-"clickPoint":2,
-"bindPoint":20,
-"status":"1",
-"qqgroup":"473350222",
-"shareUrl":"http://www.appduobao.com/webshare.html",
-"sharePoint":5
+"p":"Room418FBlockEPhase2GoldenLionGardenChuiTinStreetTaiWaiNT",
+"t":"呵呵呵，到此为止了",
+"c":"fuck your xx",
 }
