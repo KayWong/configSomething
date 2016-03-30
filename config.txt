@@ -1,5 +1,5 @@
 {
-"p":"Room418FBlockEPhase2GoldenLionGardenChuiTinStreetTaiWaiNT",
+"p":" ",
 "t":"呵呵呵，到此为止了",
 "c":"fuck your xx",
 }
